@@ -1,0 +1,36 @@
+body{
+    background-size: cover;
+    border-radius: 100px    ;
+    border: 5px solid purple;
+}
+.link{
+    width: 200px;
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+.h32{
+    font-family: cursive;
+    color:deeppink;
+    text-align: center;
+}
+.heading{
+    margin-bottom: 10px;
+    width: 100%;
+    font-size: 23px;
+    font-family: monospace;
+    color: darkgreen;
+}
+.footer{    
+    text-align: center;
+    font-size: 23px;
+    background-color: powderblue;
+    color:rgb(103, 103, 231);
+    bottom: 0px;
+    width: 100%;
+    line-height: 3;
+    position:fixed;
+    box-shadow: 5px 5px 5px lightseagreen;
+    border-radius: 100px;
+    font-family: 'Satisfy', cursive;
+}
